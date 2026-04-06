@@ -4,3 +4,9 @@
 - I am a third-year undergraduate student majoring in Software Engineering at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications, and I am expected to obtain the recommendation for postgraduate admission in 2026.
 - Additionally, I am honored to be admitted to the Innovation and Entrepreneurship Education Experimental Class "Ye Class" of the Ye Peida School of Innovation and Entrepreneurship at Beijing University of Posts and Telecommunications, leading multiple innovation and entrepreneurship projects and winning over thirty national and provincial competition awards.
 - My research interest include LLM and Embodied AI.
+
+
+<video width="100%" controls autoplay loop muted>
+  <source src="你的catbox直链在这里" type="video/mp4">
+  你的浏览器不支持视频播放
+</video>
